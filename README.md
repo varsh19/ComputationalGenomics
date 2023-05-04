@@ -1,0 +1,1 @@
+This project was done as part of the "Computational Genomics (BIOL 7210)" course at Georgia Institute of Technology. This was a team project. The project had 5 different tasks and each of us was assigned to two tasks each. I was assigned to the "Gene Prediction" and "Comparative Genomics" groups. 
