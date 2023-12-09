@@ -22,9 +22,9 @@ FastANI has three different modes. This project uses the many-to-many mode becau
 
 We used the output file of FastANI to generate heatmap using various python libraries like matplotlib and seaborn. The exact script is in the “fastani_run()” function in our script "run_fastANI.py".
 
-![image](Results/FastANI-Heatmap.png)
+![image](Results/FastANI-PhylogeneticTree.png)
 
-![image](https://github.gatech.edu/comgenomics2023/Team2-ComparativeGenomics/blob/main/Results/FastANIHeatmap.png)
+![image](Results/FastANIHeatmap.png)
 
 ## SNP-Based Typing Method 
 
@@ -54,7 +54,7 @@ To view the phylogenetic tree (a GUI will pop up from this terminal command)
 
 `figtree parsnp_outdir/parsnp.tree`
 
-![image](https://github.gatech.edu/comgenomics2023/Team2-ComparativeGenomics/blob/main/Results/ParSNP%20rsults.PNG)
+![image](Results/ParSNP-PhylogeneticTree.PNG)
 
 ## Anti Microbial Resistance Analysis
 
@@ -76,7 +76,7 @@ hAMRonization gives a lot of options to combine our results. One of the options 
 
 The output is processed in MS Excel.
 
-![image](https://github.gatech.edu/comgenomics2023/Team2-ComparativeGenomics/blob/main/Results/hAMRonization%20output%20table.PNG)
+![image](Results/hAMRonization-OutputTable.PNG)
 
 ## Recommendations to the CDC 
 
